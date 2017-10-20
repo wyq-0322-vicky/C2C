@@ -1,0 +1,41 @@
+#header {
+	background-color: #3b5998;
+	margin: 0;
+}
+#header-container {
+	width: 980px;
+	margin: 0 auto;
+	position: relative;
+}
+#header h1{
+	margin: 0;
+	max-width: max-content;
+	color: white;
+	font-family: 'Merriweather', serif;
+}
+#facebook {
+
+	margin-top: 15px;
+	max-width: max-content;
+	float: left;
+	margin-right: 40%;
+	margin-left: 10px
+
+
+}
+#header form {
+	color: white;
+	font-size: small;
+	font-family: 'Josefin Sans', sans-serif;
+}
+#header a {
+	color: white;
+	font-size: x-small;
+	text-decoration: none;
+	font-family: 'Indie Flower', cursive;
+}
+
+.log-in {
+	background-color: #3b5998;
+	border-color: #3b6898;
+}
