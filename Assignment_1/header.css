@@ -1,5 +1,6 @@
 body {
 	margin: 0;
+	background-color: #edf0f5;
 }
 #header {
 	background-color: #3b5998;
@@ -9,7 +10,6 @@ body {
 #header-container {
 	width: 980px;
 	margin: 0 auto;
-	position: relative;
 }
 #header h1{
 	margin: 0;
