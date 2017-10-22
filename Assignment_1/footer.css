@@ -1,0 +1,40 @@
+#footer {
+	background-color: white;
+}
+#footer-container {
+	/*max-width: max-content;*/
+	width: 980px;
+	margin: auto;
+}
+
+#footer-language {
+	padding-top: 20px;
+	padding-bottom: 7px;
+	border-bottom: 1px solid #dddfe2;
+	font-size: 13px;
+
+}
+
+#footer-language-default a {
+	float: left;
+	padding-right: 10px;
+}
+ 
+
+
+#footer-function {
+	padding-top: 7px;
+}
+
+#footer td {
+	padding: 4px;
+	font-size: 13px;
+	padding-right: 20px;
+}
+
+#footer-end {
+	padding: 15px 0 25px 0;
+	font-size: 10px;
+	color: #737373;
+}
+
