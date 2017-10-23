@@ -15,7 +15,7 @@ body {
 	margin: 0;
 	max-width: max-content;
 	color: white;
-	font-family: 'Merriweather', serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 #facebook {
 
@@ -41,7 +41,6 @@ body {
 	color: white;
 	font-size: x-small;
 	text-decoration: none;
-	font-family: 'Indie Flower', cursive;
 }
 
 .log-in {
